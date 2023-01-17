@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yanmoura16
-- 👀 I’m interested in ... Machine Learning and A.I
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Business Intelligence
+- 🌱 I’m currently learning ... SQL And Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... E-mail Yanmoura16@outlook.com
 
